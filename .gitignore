@@ -23,3 +23,10 @@ build/
 # Logs
 *.log
 npm-debug.log*
+.vercel
+.env*
+.env.local
+.vercel
+.next/
+next-env.d.ts
+tsconfig.tsbuildinfo
